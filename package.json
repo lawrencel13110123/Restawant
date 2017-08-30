@@ -1,0 +1,49 @@
+{
+  "name": "restawant",
+  "version": "1.0.0",
+  "description": "A platform assisting restaurants to manage and grow their social media marketing",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wcheung26/Restawant.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wcheung26/Restawant/issues"
+  },
+  "homepage": "https://github.com/wcheung26/Restawant#readme",
+  "devDependencies": {
+    "babel-core": "^6.25.0",
+    "babel-loader": "^7.1.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "file-loader": "^0.11.2",
+    "url-loader": "^0.5.9",
+    "webpack": "^3.5.4"
+  },
+  "dependencies": {
+    "axios": "^0.16.2",
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "express-session": "^1.15.5",
+    "moment": "^2.18.1",
+    "morgan": "^1.8.2",
+    "mysql2": "^1.4.1",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "react": "^15.6.1",
+    "react-bootstrap": "^0.31.2",
+    "react-dom": "^15.6.1",
+    "react-modal": "^2.2.4",
+    "react-places-autocomplete": "^5.4.2",
+    "react-router": "^4.1.2",
+    "react-router-dom": "^4.1.2",
+    "sequelize": "^4.5.0"
+  }
+}
