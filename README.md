@@ -24,9 +24,9 @@ In today’s dynamic business environment, where marketing are becoming more and
  - Bootstrap
  - Sequelize 
  - MySQL 
- 	- local database 
+ 	- Local database 
  - JawsDB
- 	- deployed database 
+ 	- Deployed Heroku database 
  - QRickit QR Code API 
 	 - QR code generation with custom url 
  - Passport.js
@@ -82,7 +82,7 @@ In the file, type in the following code
 	exports.secret = 'keyboard cat';
 ```
 
-### Step 4: Launch app 
+### Step 5: Launch app 
 Via terminal type in these bash command once you are in the Restawant root directory 
 
 > webpack 
