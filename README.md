@@ -22,6 +22,11 @@ In today’s dynamic business environment, where marketing are becoming more and
 
  - Express.js 
  - Bootstrap
+ - Sequelize 
+ - MySQL 
+ 	- local database 
+ - JawsDB
+ 	- deployed database 
  - QRickit QR Code API 
 	 - QR code generation with custom url 
  - Passport.js
