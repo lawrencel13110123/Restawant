@@ -86,6 +86,7 @@ In the file, type in the following code
 Via terminal type in these bash command once you are in the Restawant root directory 
 
 > webpack 
+>
 > node server.js 
 
 Go to your browser and type in `localhost:8080` in your URL bar. Now you should see the application open locally.
