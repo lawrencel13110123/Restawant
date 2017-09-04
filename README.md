@@ -59,9 +59,12 @@ The dependencies should now be in the local `node_modules` folder.
 
 Via terminal type in these bash command once you are in the db directory 
 
-> mysql -u root -p 
+> mysql -u root -p
+>
 > enter your MySQL password 
+>
 > source schema.sql 
+>
 > exit 
 
 ### Step 4: Create secret.js 
